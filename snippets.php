@@ -1,7 +1,7 @@
 <?php
 
 /*
-* Get access_token on Banco do Brasil API
+* Get access_token off Banco do Brasil API
 */
 
 use GuzzleHttp\Client;
